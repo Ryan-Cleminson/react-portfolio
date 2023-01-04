@@ -27,7 +27,7 @@ export default class Service extends Component {
                 return(
                   <div className="item">
                       <div style={itemStyles} className="roles">
-                        <img src={item.img} style={imgStyles}></img>
+                        <img alt="" src={item.img} style={imgStyles}></img>
                         <h3 >{item.RoleName}</h3>
                         <p className="descriptiveinfo" >{item.Description}</p>
                         <p className="info" >{item.handles}</p>

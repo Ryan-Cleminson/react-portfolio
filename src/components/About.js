@@ -9,7 +9,7 @@ export default class About extends Component {
             <div className="three columns">
 
                <img className="profile-pic"  src="images/profilepic.jpg" alt="" />
-               <a onClick={() => window.open('resume/Ryan Cleminson Resume.pdf')}>
+               <a href={'resume/Ryan Cleminson Resume.pdf'}>
                   <button >Download Resume</button>
                </a>
             </div>
