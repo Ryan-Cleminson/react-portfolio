@@ -11,7 +11,9 @@ import Testimonials from  './components/Testimonials';
 import Footer from './components/Footer';
 import resumeData from './resumeData';
 
+document.cookie = "username=; expires=Thu, 01 Jan 1999 00:00:00 UTC; path=/;";
 class App extends Component {
+  
   render() {
     return (
       <div className="App">
