@@ -4,11 +4,10 @@ import About from './components/About';
 import Academic from './components/Academic';
 import Professional from './components/Professional';
 import Skills from './components/Skills';
-// import Portfolio from './components/Portfolio';
 import Leadership from './components/Leadership';
 import Service from './components/Service';
 import Goals from './components/Goals';
-// import Testimonials from  './components/Testimonials';
+import Testimonials from  './components/Testimonials';
 import Footer from './components/Footer';
 import resumeData from './resumeData';
 
@@ -21,12 +20,11 @@ class App extends Component {
         <Academic resumeData={resumeData}/>
         <Skills resumeData={resumeData}/>
         <Professional resumeData={resumeData}/>
-        {/* <Portfolio resumeData={resumeData}/> */}
         <Leadership resumeData={resumeData}/>
         <Service resumeData={resumeData}/>
 
         <Goals resumeData={resumeData}/>
-        {/* <Testimonials resumeData={resumeData}/> */}
+        <Testimonials resumeData={resumeData}/>
         {/* <ContactUs resumeData={resumeData}/> */}
         {/* <Test resumeData={resumeData}/> */}
 

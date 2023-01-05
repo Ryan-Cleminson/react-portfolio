@@ -8,8 +8,6 @@ export default class Service extends Component {
 	    padding: '10px 10px 5px',
 	    'text-align': 'center',
       boxShadow: '0px 2px 5px #000',
-      width:"50%"
-      // height:"230px",
     };
     const imgStyles = {
       'padding-bottom':'10px',

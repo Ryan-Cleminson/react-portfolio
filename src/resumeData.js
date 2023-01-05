@@ -23,6 +23,7 @@ let resumeData = {
         }
       ],
     "aboutme":"I'm a Data Engineer who aspires to work in the cybersecurity industry. As someone with a processing disorder, I have achieved things greater than I thought possible, only realising my disorder was not a hindrance when I co-authored my first publication in psychology. Following my goal to become an engineer, I found a passion to build, learn and apply my skills in creative and innovative ways. I believe this will allow me to create a greater future for everyone. Until now, I have had the opportunity to work in a business-orientated role as a strategy and analytics coordinator and a technical role as a software developer. I've contributed to various not-for-profit organisations over my life and have held the position of treasurer for the Programmers' Society (ProgSoc) at UTS. With experience in such diverse roles, I can confidently say that data has the ability to change the world for the better. While my journey as a professional in the ever-evolving world of data and technology has just begun, I hope you'll reach out or follow me on my exciting journey.",
+    "contact":"+61 424 170 739 rdcleminson@gmail.com",
     "address":"Sydney, Australia",
     "website":"",
     "education":[
@@ -65,21 +66,21 @@ let resumeData = {
         "CompanyName":"Ericsson",
         "StartDate":"Sep 2022",
         "EndDate":"Present",
-        "Description":"Successfully implemented a machine learning model that significantly reduced the need for human intervention in system automations. In addition, successfully managed multiple consecutive platform migrations, each with its own customized architectural setup."
+        "Description":"Successfully implemented a machine learning model that significantly reduced the need for human intervention in system automations. In addition, I successfully led, developed and managed multiple consecutive platform migrations, each with specific architectural artifacts and designs."
       },
       {
         "RoleName":"Intern Developer",
         "CompanyName":"Ericson",
         "StartDate":"Feb 2022",
         "EndDate":"Sep 2022",
-        "Description":"Contributed to the success of multiple teams within the company, including automation, systems migration, and data processing. Assisted in the development of automations that significantly reduced workload, resulting in a reduction of over 130 FTE work hours in the past 6 months."
+        "Description":"Contributed to the success of multiple team projects within the company, including automation, systems migration, and data processing. Assisted in the development of automations that significantly reduced workload, resulting in a reduction of over 130 FTE work hours in the proceeding two quarters."
       },
       {
         "RoleName":"Strategy and Analytics Coordinator",
         "CompanyName":"Lupo Digital",
         "StartDate":"Jun 2021",
         "EndDate":"Jan 2022",
-        "Description":"Designed and managed company data analysis strategies within their native marketing platform that standardised a high quality of analytical output for business insight. I further developed business SEO Strategy and execution resulting in a 700% increase in company organic traffic and a 267% increase in marketable contacts."
+        "Description":"Designed and managed company data analysis strategies within their native marketing platform, standardising a high quality of analytical output for business insight. I further developed a business SEO Strategy; upon execution it resulted in a 700% increase in company's organic traffic and a 267% increase in marketable contacts."
       }
     ],
     "skillsDescription":"",
@@ -138,11 +139,11 @@ let resumeData = {
     "leadership":[
       {
         "RoleName":"McDonalds",
-        "Description":"As a crew coach at McDonald's, I was successful in leading and guiding my team to deliver excellent customer service and maintain the high standards of the restaurant. In this role, I demonstrated leadership by setting positive examples for my team to follow and by promoting a safe environment for all staff through proper training and WH&S. I strived for and delivered a positive and successful work environment for all team members."
+        "Description":"As a crew coach at McDonald's, I was successful in leading and guiding my team to deliver excellent customer service and maintained the high standards of the restaurant. In this role, I demonstrated leadership by setting positive examples for my team to follow and by promoting a safe environment for all staff. This was achieved through ongoing training and maintaining work health and safety standards. I strived for and delivered a positive and successful work environment for all team members."
       },
       {
         "RoleName":"Society Executive Roles",
-        "Description":"I have developed my leadership skills during my four years at UTS through my involvement in various society clubs. From 2020-2021, I served as a member of the General Committee for the UTS Programmers' Society, where I participated in decision-making processes for the organization. In 2021, I took on a more significant role as treasurer for the society. In this position, I worked with other executive members to plan and budget for various events, including programming workshops and inter-society networking events. Despite the challenges presented by COVID-19, I was able to successfully plan and finance these events."
+        "Description":"I have developed my leadership skills during my four years at UTS through my involvement in various society clubs. From 2020-2021, I served as a member of the General Committee for the UTS Programmers' Society, where I participated in decision-making processes for the society. In 2021, I undertook a more significant role as treasurer for the society. In this position, I worked with other executive members to plan and budget various events, including programming workshops and inter-society networking events. Despite the challenges presented by COVID-19, I was able to successfully plan and finance these events."
         }
     ],
     "teamwork_and_service":[
@@ -155,34 +156,44 @@ let resumeData = {
       {
         "img":"images/teamwork_and_service/progsoc.png",
         "RoleName":"ProgSoc Executive",
-        "Description":"As an executive for the Programmers Society, I discovered the crucial importance of teamwork and communication in achieving success for events, projects, and overall management. Through my experiences with the society, I witnessed firsthand how necessary it is for team members to collaborate and support each other, especially as events and deadlines drew near. By dedicating our time and effort as volunteers, we were able to not only support the success of these endeavors, but also cultivate strong relationships and friendships within our community.",
+        "Description":"As an executive for the Programmers Society, I discovered the crucial importance of teamwork and communication in achieving success for events, projects, and overall management. Through my experiences with the society, I witnessed firsthand how necessary it is for team members to collaborate and support each other, especially as events and deadlines drew near. By dedicating our time and effort as volunteers, we were not only successful in these endeavors, but also cultivate strong relationships and friendships within our community.",
         "handles":"#UTSEngineering #ProgSoc"
       }
     ],
     "goals":[
       {
-        "title":"Community Service Group",
-        "company":"Something random",
-        "subtitle":"Working in this thing",
-        "years":"2021",
-        "technologies": []
+        "title":"Study Masters of Business Administration (MBA)",
+        "company":"",
+        "subtitle":"Expected Outcome: Complete degree with gained knowledge in approaching business problems and decision-making with a human-centric mindset. This would ultimately increase my understanding of how decisions could affect stakeholders and my ability to adapt to a continuously changing industry.",
+        "years":"2028",
+      },
+      {
+        "title":"Leadership/Managerial Role",
+        "company":"Measured by: High employee satisfaction and High quality of work output.",
+        "subtitle":"Expected Outcome: Provides the opportunity to apply teachings from previous experiences and adjust to accomplish success.",
+        "years":"2027",
       },
       {
         "title":"Observership Program",
         "company":"",
-        "subtitle":"Working in this thing",
-        "years":"2025",
-        "technologies": []
-        }
+        "subtitle":"Expected Outcome: Gained experience and exposure with not-for-profit boards, learning about the fundamentals, functions and their impact within the organisations.",
+        "years":"2026",
+      },
+      {
+        "title":"Gain Industry Experience",
+        "company":"",
+        "subtitle":"Expected Outcome: Gained knowledge from working in one or many roles that delivered a diverse portfolio of projects and experiences. Focussed on learning leadership and managerial responsibilities providing a clear understanding of low and middle-level business execution.",
+        "years":"2022-2025",
+      },
     ],
     "testimonials":[
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"I cannot recommend Ryan highly enough. Ryan is honest trustworthy reliable and committed.",
+        "name":"Glenn Miller | Founder & Director, Growth Strategy & Customer Experience  "
       },
       {
-        "description":"This is a sample testimonial",
-        "name":"Some technical guy"
+        "description":"Ryan Cleminson is a hard working individual, he has worked with me for the past 3 years and thrived in leadership opportunities provided to him",
+        "name":"Jordan Claridades | People Performance Manager at McDonald's"
       }
     ]
   }

@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 export default  class Skills extends Component {
   render() {
     let resumeData = this.props.resumeData;
+    
     return (
       <section id="skills">
         <br></br>
@@ -10,11 +11,12 @@ export default  class Skills extends Component {
           <div className="header-col">
             <h1 style={{color: "#FFFFFF"}}><span>Skills</span></h1>
           </div>
+          <div className='cols'>
           <div className="main-col">
 
             <div className="six columns tech bars">
-              <h2 style={{color: "#FFFFFF", "padding-bottom":"50px"}}><span>Technical</span></h2>
-              <ul className=" tech_skills">{
+              <h2 style={{color: "#FFFFFF", "padding-bottom":"50px", 'textAlign':'center'}}><span>Technical</span></h2>
+              <ul className="tech_skills">{
                 
                 resumeData.technicalskills && resumeData.technicalskills.map((item) => {
                   return(
@@ -27,9 +29,11 @@ export default  class Skills extends Component {
               }
               </ul>
             </div>
+          </div>
+          <div className="main-col">
             <div className="six columns trans bars">
-              <h2 style={{color: "#FFFFFF", "padding-bottom":"50px"}}><span>Transferable</span></h2>
-              <ul className=" trans_skills">{
+              <h2 style={{color: "#FFFFFF", "padding-bottom":"50px", 'textAlign':'center'}}><span>Transferable</span></h2>
+              <ul className="trans_skills">{
                 resumeData.transferableskills && resumeData.transferableskills.map((item) => {
                   return(
                     <li>
@@ -42,6 +46,7 @@ export default  class Skills extends Component {
               </ul>
             </div>
           </div>
+        </div>
         </div>
       </section>
     );
