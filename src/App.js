@@ -12,7 +12,6 @@ import Footer from './components/Footer';
 import resumeData from './resumeData';
 
 class App extends Component {
-  
   render() {
     return (
       <div className="App">
@@ -23,12 +22,10 @@ class App extends Component {
         <Professional resumeData={resumeData}/>
         <Leadership resumeData={resumeData}/>
         <Service resumeData={resumeData}/>
-
         <Goals resumeData={resumeData}/>
         <Testimonials resumeData={resumeData}/>
         {/* <ContactUs resumeData={resumeData}/> */}
         {/* <Test resumeData={resumeData}/> */}
-
         <Footer resumeData={resumeData}/>
       </div>
     );
