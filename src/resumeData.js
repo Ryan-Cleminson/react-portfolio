@@ -159,20 +159,20 @@ let resumeData = {
       },
       {
         "RoleName":"Society Executive Roles",
-        "Description":"I have developed my leadership skills during my four years at UTS through my involvement in various society clubs. From 2020-2021, I served as a member of the General Committee for the UTS Programmers' Society, where I participated in decision-making processes for the society. In 2021, I undertook a more significant role as treasurer for the society. In this position, I worked with other executive members to plan and budget various events, including programming workshops and inter-society networking events. Despite the challenges presented by COVID-19, I was able to successfully plan and finance these events."
+        "Description":"I have developed my leadership skills during my four years at UTS through my involvement in various society clubs like the Engineering Society (EngSoc) and Programmers' Society (ProgSoc). From 2020-2021, I served as a member of the General Committee for the Programmers' Society, where I participated in decision-making processes for the society. In 2021, I undertook a more significant role as treasurer for the society. In this position, I worked with other executive members to plan and budget various events, including programming workshops and inter-society networking events. Despite the challenges presented by COVID-19, I was able to successfully plan and finance these events."
         }
     ],
     "teamwork_and_service":[
       {
         "img":"images/teamwork_and_service/jbd.jpg",
         "RoleName":"NSW Jewish Board of Deputies - Security Decision",
-        "Description":"While volenteering at the NSW Jewish Board of Deputies I worked as a part of a cohesive team of volunteers, each bringing their own unique skills and expertise to the organisation. During this time, we would work on projects together, all with the same goal and focus in mind which would not have been possible without organisation and collaboration.",
+        "Description":"While volunteering at the NSW Jewish Board of Deputies, I worked as a part of a cohesive team of volunteers, each bringing their own unique skills and expertise to the organisation. During this time, we would work on projects together, all with the same goal and focus in mind which would not have been possible without strong organisation and collaboration skills.",
         "handles":"#Community #TeamWork"
       },
       {
         "img":"images/teamwork_and_service/progsoc.png",
         "RoleName":"ProgSoc Executive",
-        "Description":"As an executive for the Programmers Society, I discovered the crucial importance of teamwork and communication in achieving success for events, projects, and overall management. Through my experiences with the society, I witnessed firsthand how necessary it is for team members to collaborate and support each other, especially as events and deadlines drew near. By dedicating our time and effort as volunteers, we were not only successful in these endeavors, but also cultivate strong relationships and friendships within our community.",
+        "Description":"As an executive for the Programmers Society, I discovered the crucial importance of teamwork and communication in achieving success for events, projects, and overall management. Through my experiences with the society, I witnessed firsthand how necessary it is for team members to collaborate and support each other, especially as the events and deadlines drew near. By dedicating our time and effort as volunteers, we were not only successful in these endeavours, but also cultivated strong relationships and friendships within our community.",
         "handles":"#UTSEngineering #ProgSoc"
       }
     ],
@@ -180,25 +180,25 @@ let resumeData = {
       {
         "title":"Study Masters of Business Administration (MBA)",
         "company":"",
-        "subtitle":"To complete degree with gained knowledge in approaching business problems and decision-making with a human-centric mindset. This would ultimately increase my understanding of how decisions could affect stakeholders and my ability to adapt to a continuously changing industry.",
+        "subtitle":"To complete a Masters of Business Administration with gained knowledge in approaching business problems and decision-making with a human-centric mindset. This would ultimately increase my understanding of how decisions could affect stakeholders and my ability to adapt to a continuously changing industry.",
         "years":"2028",
       },
       {
         "title":"Leadership/Managerial Role",
-        "company":"Measured by: High employee satisfaction and High quality of work output.",
-        "subtitle":"To provides the opportunity of applying teachings from previous experiences and adjusting to accomplish success.",
+        "company":"Success measured by: High employee satisfaction and High quality of work output.",
+        "subtitle":"To apply learnings from previous experiences and adjusting to accomplish success.",
         "years":"2027",
       },
       {
         "title":"Observership Program",
         "company":"",
-        "subtitle":"To gain experience and exposure with not-for-profit boards, learning about the fundamentals, functions and their impact within the organisations.",
+        "subtitle":"To gain experience and exposure with not-for-profit boards, learning about the fundamentals, functions and their impact within organisations.",
         "years":"2026",
       },
       {
         "title":"Gain Industry Experience",
         "company":"",
-        "subtitle":"To gain knowledge from working in one or many roles that delivered a diverse portfolio of projects and experiences. Focussing on learning leadership and managerial responsibilities to provide a clear understanding of low and middle-level business execution.",
+        "subtitle":"To gain knowledge from working in one or many roles that delivers a diverse portfolio of projects and experiences. Focussing on learning leadership and managerial responsibilities to understand low and middle-level business execution.",
         "years":"2022-2025",
       },
     ],
