@@ -2,11 +2,6 @@ import React, { Component } from 'react';
 export default  class Resume extends Component {
   render() {
     let resumeData = this.props.resumeData;
-    // let links = resumeData.education.links
-    var all_link = resumeData.education && resumeData.education.map((item)=>{
-      const links = item.links
-    })
-
 
     return (
       <section id="academic">
