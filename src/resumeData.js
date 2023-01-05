@@ -33,7 +33,11 @@ let resumeData = {
         "specialization":"Achievement",
         "MonthOfPassing":"",
         "YearOfPassing":"2022",
-        "Achievements":"Following an interview and review of subject results, I was offered the 2022 Ericsson Technology Scholarship. Throughout the scholarship, performance reviews displayed above-average and excellent performance in both technical and non-technical areas."
+        "Achievements":"Following an interview and review of subject results, I was offered the 2022 Ericsson Technology Scholarship. Throughout the scholarship, performance reviews displayed above-average and excellent performance in both technical and non-technical areas.",
+        "link1Name":"",
+        "link1":"",
+        "link2Name":"",
+        "link2":""
       },
       {
         "Picture":"images/academic/tvc/rocketry_logo.jpeg",
@@ -41,7 +45,11 @@ let resumeData = {
         "specialization":"Project {Python}",
         "MonthOfPassing":"",
         "YearOfPassing":"2021",
-        "Achievements":"Completed as a part of a Studio project and developed for the UTS Rocketry Society - The developed TCV System is a real-time corrective algorithm that minimizes over/under shoot tendencies of medium-powered rocket systems. This has advanced the society's potential to work with greater-powered rockets in the future."
+        "Achievements":"Completed as a part of a Studio project and developed for the UTS Rocketry Society - The TCV System is a real-time corrective algorithm that minimizes over/under shoot tendencies of medium-powered rocket systems. This has advanced the society's potential to work with greater-powered rockets in the future.",
+        "link1Name":"",
+        "link1":"",
+        "link2Name":"",
+        "link2":""
       },
       {
         "Picture":"images/academic/no-waste/menu.jpg",
@@ -49,7 +57,11 @@ let resumeData = {
         "specialization":"Project {Python, Django,  JavaScript}",
         "MonthOfPassing":"",
         "YearOfPassing":"2021",
-        "Achievements":"Completed as a part of a Data Systems course - The NO WASTE product was successfully developed to minimise overspending and excess waste using algorithms. By searching through easy-to-make recipes, the NO WASTE system will provide recommendations based on the pantry items that are available."
+        "Achievements":"Completed as a part of a Data Systems course - The NO WASTE product was successfully developed to minimise overspending and excess waste using algorithms. By searching through easy-to-make recipes, the NO WASTE system will provide recommendations based on the pantry items that are available.",
+        "link1Name":"",
+        "link1":"",
+        "link2Name":"",
+        "link2":""
       },
       {
         "Picture":"",
@@ -57,7 +69,11 @@ let resumeData = {
         "specialization":"Achievement",
         "MonthOfPassing":"",
         "YearOfPassing":"2017/2018",
-        "Achievements":"Conducted experiments in fields of human psychology and physiology. These were further developed into publications for the International Journal of Adolescent Medicine and Health."
+        "Achievements":"Conducted experiments in fields of human psychology and physiology. These were further developed into publications for the International Journal of Adolescent Medicine and Health.",
+        "link1Name":"Paper 1: Assessment of anxiety in adolescents involved in a study abroad program: a prospective study",
+        "link1":"https://www.degruyter.com/document/doi/10.1515/ijamh-2017-0101/html",
+        "link2Name":"Paper 2: Hemihyperplasia / Hemihypertrophy in Adolescents: Prospective International Study",
+        "link2":"https://www.degruyter.com/document/doi/10.1515/ijamh-2018-0066/html?lang=en"
       }
     ],
     "work":[
@@ -150,7 +166,7 @@ let resumeData = {
       {
         "img":"images/teamwork_and_service/jbd.jpg",
         "RoleName":"NSW Jewish Board of Deputies - Security Decision",
-        "Description":"While volenteering at the NSW Jewish Board of Deputies I worked as a part of a cohesive team of volunteers, each bringing their own unique skills and expertise to the organization. During this time, we would work on projects together, all with the same goal and focus in mind which would not have been possible without organisation and collaboration.",
+        "Description":"While volenteering at the NSW Jewish Board of Deputies I worked as a part of a cohesive team of volunteers, each bringing their own unique skills and expertise to the organisation. During this time, we would work on projects together, all with the same goal and focus in mind which would not have been possible without organisation and collaboration.",
         "handles":"#Community #TeamWork"
       },
       {
@@ -164,25 +180,25 @@ let resumeData = {
       {
         "title":"Study Masters of Business Administration (MBA)",
         "company":"",
-        "subtitle":"Expected Outcome: Complete degree with gained knowledge in approaching business problems and decision-making with a human-centric mindset. This would ultimately increase my understanding of how decisions could affect stakeholders and my ability to adapt to a continuously changing industry.",
+        "subtitle":"To complete degree with gained knowledge in approaching business problems and decision-making with a human-centric mindset. This would ultimately increase my understanding of how decisions could affect stakeholders and my ability to adapt to a continuously changing industry.",
         "years":"2028",
       },
       {
         "title":"Leadership/Managerial Role",
         "company":"Measured by: High employee satisfaction and High quality of work output.",
-        "subtitle":"Expected Outcome: Provides the opportunity to apply teachings from previous experiences and adjust to accomplish success.",
+        "subtitle":"To provides the opportunity of applying teachings from previous experiences and adjusting to accomplish success.",
         "years":"2027",
       },
       {
         "title":"Observership Program",
         "company":"",
-        "subtitle":"Expected Outcome: Gained experience and exposure with not-for-profit boards, learning about the fundamentals, functions and their impact within the organisations.",
+        "subtitle":"To gain experience and exposure with not-for-profit boards, learning about the fundamentals, functions and their impact within the organisations.",
         "years":"2026",
       },
       {
         "title":"Gain Industry Experience",
         "company":"",
-        "subtitle":"Expected Outcome: Gained knowledge from working in one or many roles that delivered a diverse portfolio of projects and experiences. Focussed on learning leadership and managerial responsibilities providing a clear understanding of low and middle-level business execution.",
+        "subtitle":"To gain knowledge from working in one or many roles that delivered a diverse portfolio of projects and experiences. Focussing on learning leadership and managerial responsibilities to provide a clear understanding of low and middle-level business execution.",
         "years":"2022-2025",
       },
     ],

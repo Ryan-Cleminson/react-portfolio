@@ -2,6 +2,12 @@ import React, { Component } from 'react';
 export default  class Resume extends Component {
   render() {
     let resumeData = this.props.resumeData;
+    // let links = resumeData.education.links
+    var all_link = resumeData.education && resumeData.education.map((item)=>{
+      const links = item.links
+    })
+
+
     return (
       <section id="academic">
         <div className="row education">
@@ -19,14 +25,16 @@ export default  class Resume extends Component {
                         <p className="info">
                         {item.specialization}
                         <span>&bull;</span> <em className="date">{item.MonthOfPassing} {item.YearOfPassing}</em></p>
-                        <p className="descriptiveinfo">
-                        {item.Achievements}
-                        </p>
+                        <p className="descriptiveinfo">{item.Achievements}</p>
+                        <a href={item.link1}>{!(item.link1)?"":item.link1Name}</a>
+                        <br/>
+                        <a href={item.link2}>{!(item.link2)?"":item.link2Name}</a>
                       </div>
                   </div>
                 )
               })
             }
+
           </div>
         </div>
       </section>

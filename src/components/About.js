@@ -10,7 +10,7 @@ export default class About extends Component {
 
                <img className="profile-pic"  src="images/profilepic.jpg" alt="" />
                <a href={'resume/Ryan Cleminson Resume.pdf'}>
-                  <button >Download Resume</button>
+                  <button>Download Resume</button>
                </a>
             </div>
 
