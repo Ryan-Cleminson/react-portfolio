@@ -165,7 +165,7 @@ let resumeData = {
     "teamwork_and_service":[
       {
         "img":"images/teamwork_and_service/jbd.jpg",
-        "RoleName":"NSW Jewish Board of Deputies - Security Decision",
+        "RoleName":"NSW Jewish Board of Deputies - Security Division",
         "Description":"While volunteering at the NSW Jewish Board of Deputies, I worked as a part of a cohesive team of volunteers, each bringing their own unique skills and expertise to the organisation. During this time, we would work on projects together, all with the same goal and focus in mind which would not have been possible without strong organisation and collaboration skills.",
         "handles":"#Community #TeamWork"
       },
