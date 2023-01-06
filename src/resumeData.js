@@ -178,16 +178,10 @@ let resumeData = {
     ],
     "goals":[
       {
-        "title":"Study Masters of Business Administration (MBA)",
+        "title":"Gain Industry Experience",
         "company":"",
-        "subtitle":"To complete a Masters of Business Administration with gained knowledge in approaching business problems and decision-making with a human-centric mindset. This would ultimately increase my understanding of how decisions could affect stakeholders and my ability to adapt to a continuously changing industry.",
-        "years":"2028",
-      },
-      {
-        "title":"Leadership/Managerial Role",
-        "company":"Success measured by: High employee satisfaction and High quality of work output.",
-        "subtitle":"To apply learnings from previous experiences and adjusting to accomplish success.",
-        "years":"2027",
+        "subtitle":"To gain knowledge from working in one or many roles that delivers a diverse portfolio of projects and experiences. Focussing on learning leadership and managerial responsibilities to understand low and middle-level business execution.",
+        "years":"2022-2025",
       },
       {
         "title":"Observership Program",
@@ -196,16 +190,22 @@ let resumeData = {
         "years":"2026",
       },
       {
-        "title":"Gain Industry Experience",
+        "title":"Leadership/Managerial Role",
+        "company":"Success measured by: High employee satisfaction and High quality of work output.",
+        "subtitle":"To apply learnings from previous experiences and adjusting to accomplish success.",
+        "years":"2027",
+      },
+      {
+        "title":"Study Masters of Business Administration (MBA)",
         "company":"",
-        "subtitle":"To gain knowledge from working in one or many roles that delivers a diverse portfolio of projects and experiences. Focussing on learning leadership and managerial responsibilities to understand low and middle-level business execution.",
-        "years":"2022-2025",
+        "subtitle":"To complete a Masters of Business Administration with gained knowledge in approaching business problems and decision-making with a human-centric mindset. This would ultimately increase my understanding of how decisions could affect stakeholders and my ability to adapt to a continuously changing industry.",
+        "years":"2028",
       },
     ],
     "testimonials":[
       {
         "description":"I cannot recommend Ryan highly enough. Ryan is honest trustworthy reliable and committed.",
-        "name":"Glenn Miller | Founder & Director, Growth Strategy & Customer Experience  "
+        "name":"Glenn Miller | Founder & Director, Growth Strategy & Customer Experience at Lupo Digital"
       },
       {
         "description":"Ryan Cleminson is a hard working individual, he has worked with me for the past 3 years and thrived in leadership opportunities provided to him",
