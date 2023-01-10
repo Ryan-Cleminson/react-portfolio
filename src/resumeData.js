@@ -24,7 +24,7 @@ let resumeData = {
       ],
     "aboutme":"I'm a Data Engineer who aspires to work in the cybersecurity or AI industry. As someone with a processing disorder, I have achieved things greater than I thought possible, only realising my disorder was not a hindrance when I co-authored my first publication in psychology. Following my goal to become an engineer, I found a passion to build, learn and apply my skills in creative and innovative ways. I believe this will allow me to create a greater future for everyone.",
     "aboutme2":"To date, I have had the opportunity to work in a business-orientated role as a strategy and analytics coordinator and a technical role as a software developer. I've contributed to various not-for-profit organisations over my life and have held the position of treasurer for the Programmers' Society (ProgSoc) at UTS. With experience in such diverse roles, I can confidently say that data has the ability to change the world for the better.",
-    "aboutme3":"But where to now? At this very moment I'm working to gain as much diverse experience as possible to use in my next goal of becoming a manager and my longterm goal of completing a Masters in Business Administration. While my journey as a professional in the ever-evolving world of data and technology has already started, I hope you'll reach out or continue to follow me on my exciting journey.",
+    "aboutme3":"But where to now? At this very moment I'm working to gain as much diverse experience as possible to use in my next goal of becoming a manager and my long-term goal of completing a Masters in Business Administration. While my journey as a professional in the ever-evolving world of data and technology has already started, I hope you'll reach out or continue to follow me on my exciting journey.",
     "contact":"+61 424 170 739 rdcleminson@gmail.com",
     "address":"Sydney, Australia",
     "website":"",
@@ -91,7 +91,7 @@ let resumeData = {
         "CompanyName":"Ericson",
         "StartDate":"Feb 2022",
         "EndDate":"Sep 2022",
-        "Description":"Contributed to the success of multiple team projects within the company, including automation, systems migration, and data processing. Assisted in the development of automations that significantly reduced workload, resulting in a reduction of over 130 Full Time Employee (FTE) work hours in the proceeding two quarters."
+        "Description":"Contributed to the success of multiple team projects within the company, including automation, systems migration, and data processing. Assisted in the development of automations that significantly reduced workload, resulting in a reduction of over 130 Full Time Employee (FTE) work hours in the preceding two quarters."
       },
       {
         "RoleName":"Strategy and Analytics Coordinator",
@@ -139,11 +139,11 @@ let resumeData = {
     "transferableskills":[
       {
         "skillname":"Problem Solving",
-        "evidence":"Identified data collection challenges and provided alternate solutions which was implemented succefully and reduced data collection time by half."
+        "evidence":"Identified data collection challenges and provided alternate solutions which was implemented successfully and reduced data collection time by half."
       },
       {
         "skillname":"Communication",
-        "evidence":"Successfully led cross-functional team meetings, ensuring clear and effective communication of project goals and progress. Developed and presented a comprehensive report to colleagues of across different devisions."
+        "evidence":"Successfully led cross-functional team meetings, ensuring clear and effective communication of project goals and progress. Developed and presented a comprehensive report to colleagues of across different divisions."
       },
       {
         "skillname":"Time Management",
