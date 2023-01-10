@@ -49,6 +49,7 @@ class Experience extends Component {
     }
     const headerStyle = {
       'padding-top': '90px',
+      'text-transform': 'uppercase',
       'padding-bottom': '30px',
       'text-align':'center', 
       'color':'white'
@@ -59,6 +60,9 @@ class Experience extends Component {
             <h1 className="section-title" style={headerStyle}>
               Goals
             </h1>
+            <h4 className="section-title" style={{color:"white", 'text-align':'center', 'padding-bottom': '30px'}}>
+              An outline of my ongoing contribution toward the professional engineering community 
+            </h4>
 
         <div className="twelve columns">
           <div className="twelve columns">

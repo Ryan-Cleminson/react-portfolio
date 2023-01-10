@@ -4,7 +4,7 @@ let resumeData = {
     "role": "Data Engineer and Software Developer",
     "linkedinId":"ryan-dillan-cleminson",
     "skypeid": "Your skypeid",
-    "Description": "",
+    "Description": "(Website developed with React)",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,7 +22,9 @@ let resumeData = {
           "className":""
         }
       ],
-    "aboutme":"I'm a Data Engineer who aspires to work in the cybersecurity industry. As someone with a processing disorder, I have achieved things greater than I thought possible, only realising my disorder was not a hindrance when I co-authored my first publication in psychology. Following my goal to become an engineer, I found a passion to build, learn and apply my skills in creative and innovative ways. I believe this will allow me to create a greater future for everyone. Until now, I have had the opportunity to work in a business-orientated role as a strategy and analytics coordinator and a technical role as a software developer. I've contributed to various not-for-profit organisations over my life and have held the position of treasurer for the Programmers' Society (ProgSoc) at UTS. With experience in such diverse roles, I can confidently say that data has the ability to change the world for the better. While my journey as a professional in the ever-evolving world of data and technology has just begun, I hope you'll reach out or follow me on my exciting journey.",
+    "aboutme":"I'm a Data Engineer who aspires to work in the cybersecurity or AI industry. As someone with a processing disorder, I have achieved things greater than I thought possible, only realising my disorder was not a hindrance when I co-authored my first publication in psychology. Following my goal to become an engineer, I found a passion to build, learn and apply my skills in creative and innovative ways. I believe this will allow me to create a greater future for everyone.",
+    "aboutme2":"To date, I have had the opportunity to work in a business-orientated role as a strategy and analytics coordinator and a technical role as a software developer. I've contributed to various not-for-profit organisations over my life and have held the position of treasurer for the Programmers' Society (ProgSoc) at UTS. With experience in such diverse roles, I can confidently say that data has the ability to change the world for the better.",
+    "aboutme3":"But where to now? At this very moment I'm working to gain as much diverse experience as possible to use in my next goal of becoming a manager and my longterm goal of completing a Masters in Business Administration. While my journey as a professional in the ever-evolving world of data and technology has already started, I hope you'll reach out or continue to follow me on my exciting journey.",
     "contact":"+61 424 170 739 rdcleminson@gmail.com",
     "address":"Sydney, Australia",
     "website":"",
@@ -64,12 +66,12 @@ let resumeData = {
         "link2":""
       },
       {
-        "Picture":"",
+        "Picture":"images/academic/Publication/IJAMH.jpeg",
         "UniversityName":"Co-Author of Two Scientific Publications",
         "specialization":"Achievement",
         "MonthOfPassing":"",
         "YearOfPassing":"2017/2018",
-        "Achievements":"Conducted experiments in fields of human psychology and physiology. These were further developed into publications for the International Journal of Adolescent Medicine and Health.",
+        "Achievements":"Conducted experiments in fields of human psychology and physiology. These were further developed into publications for the International Journal of Adolescent Medicine and Health. As a result I was recognised as a scientific co-author on various search engines.",
         "link1Name":"Paper 1: Assessment of anxiety in adolescents involved in a study abroad program: a prospective study",
         "link1":"https://www.degruyter.com/document/doi/10.1515/ijamh-2017-0101/html",
         "link2Name":"Paper 2: Hemihyperplasia / Hemihypertrophy in Adolescents: Prospective International Study",
@@ -89,7 +91,7 @@ let resumeData = {
         "CompanyName":"Ericson",
         "StartDate":"Feb 2022",
         "EndDate":"Sep 2022",
-        "Description":"Contributed to the success of multiple team projects within the company, including automation, systems migration, and data processing. Assisted in the development of automations that significantly reduced workload, resulting in a reduction of over 130 FTE work hours in the proceeding two quarters."
+        "Description":"Contributed to the success of multiple team projects within the company, including automation, systems migration, and data processing. Assisted in the development of automations that significantly reduced workload, resulting in a reduction of over 130 Full Time Employee (FTE) work hours in the proceeding two quarters."
       },
       {
         "RoleName":"Strategy and Analytics Coordinator",
@@ -102,45 +104,54 @@ let resumeData = {
     "skillsDescription":"",
     "technicalskills":[
       {
-        "skillname":"python"
+        "skillname":"python",
+        "experience":"Experienced"
       },
       {
-        "skillname":"JavaScript"
+        "skillname":"JavaScript",
+        "experience":"Experienced"
       },
       {
-        "skillname":"Postgres"
+        "skillname":"Postgres",
+        "experience":"Intermediate"
       },
       {
-        "skillname":"SQL"
+        "skillname":"SQL",
+        "experience":"Intermediate"
       },
       {
-        "skillname":"Java"
+        "skillname":"Java",
+        "experience":"Beginner"
       },
       {
-        "skillname":"C"
+        "skillname":"C",
+        "experience":"Beginner"
       },
       {
-        "skillname":"MATLAB"
+        "skillname":"MATLAB",
+        "experience":"Beginner"
+      },
+      {
+        "skillname":"React",
+        "experience":"Beginner"
       }
     ],
     "transferableskills":[
       {
-        "skillname":"Leadership"
+        "skillname":"Problem Solving",
+        "evidence":"Identified data collection challenges and provided alternate solutions which was implemented succefully and reduced data collection time by half."
       },
       {
-        "skillname":"Problem Solving"
+        "skillname":"Communication",
+        "evidence":"Successfully led cross-functional team meetings, ensuring clear and effective communication of project goals and progress. Developed and presented a comprehensive report to colleagues of across different devisions."
       },
       {
-        "skillname":"Communication"
+        "skillname":"Time Management",
+        "evidence":"Successfully managed multiple overlapping projects with tight deadlines, consistently meeting or exceeding expectations with some project timelines being reduced by 20%."
       },
       {
-        "skillname":"Time Management"
-      },
-      {
-        "skillname":"Analytical Thinking"
-      },
-      {
-        "skillname":"Organisation"
+        "skillname":"Analytical Thinking",
+        "evidence":"Accurately identified and fixed significant errors in company marketing analytics reports, resulting in reliable and accurate reporting of website performance for the company."
       }
     ],
     
@@ -159,14 +170,14 @@ let resumeData = {
       },
       {
         "RoleName":"Society Executive Roles",
-        "Description":"I have developed my leadership skills during my four years at UTS through my involvement in various society clubs like the Engineering Society (EngSoc) and Programmers' Society (ProgSoc). From 2020-2021, I served as a member of the General Committee for the Programmers' Society, where I participated in decision-making processes for the society. In 2021, I undertook a more significant role as treasurer for the society. In this position, I worked with other executive members to plan and budget various events, including programming workshops and inter-society networking events. Despite the challenges presented by COVID-19, I was able to successfully plan and finance these events."
+        "Description":"I have developed my leadership skills during my four years at UTS through my involvement in various society clubs like the Engineering Society (EngSoc) and Programmers' Society (ProgSoc). From 2020-2021, I served as a member of the General Committee for the Programmers' Society, where I participated in decision-making processes for the society. In 2021, I undertook a more significant role as treasurer for the society. In this position, I worked with other executive members to plan and budget various events, including programming workshops and inter-society networking events. Despite the challenges of lockdown and health restrictions presented by COVID-19, I was able to successfully plan and finance these events."
         }
     ],
     "teamwork_and_service":[
       {
         "img":"images/teamwork_and_service/jbd.jpg",
         "RoleName":"NSW Jewish Board of Deputies - Security Decision",
-        "Description":"While volunteering at the NSW Jewish Board of Deputies, I worked as a part of a cohesive team of volunteers, each bringing their own unique skills and expertise to the organisation. During this time, we would work on projects together, all with the same goal and focus in mind which would not have been possible without strong organisation and collaboration skills.",
+        "Description":"While volunteering at the NSW Jewish Board of Deputies to contribute back to my community, I worked as a part of a cohesive team of volunteers, each bringing their own unique skills and expertise to the organisation. During this time, we would work on projects together, all with the same goal and focus in mind which would not have been possible without strong organisation and collaboration skills.",
         "handles":"#Community #TeamWork"
       },
       {
@@ -200,6 +211,12 @@ let resumeData = {
         "company":"",
         "subtitle":"To complete a Masters of Business Administration with gained knowledge in approaching business problems and decision-making with a human-centric mindset. This would ultimately increase my understanding of how decisions could affect stakeholders and my ability to adapt to a continuously changing industry.",
         "years":"2028",
+      },
+      {
+        "title":"Mentorship",
+        "company":"",
+        "subtitle":"To pay it forward and pass down the knowledge and skills gained throughout my career. Guiding the next generation of professionals as they navigate their own career paths. Whether through formal mentorship programs or informal relationships, I hope to make a positive impact by sharing my experience and expertise with others.",
+        "years":"2030",
       },
     ],
     "testimonials":[

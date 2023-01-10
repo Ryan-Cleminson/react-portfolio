@@ -14,8 +14,8 @@ export default  class Resume extends Component {
               resumeData.education && resumeData.education.map((item)=>{
                 return(
                   <div className="row item">
-                    <img className="three columns" alt="" src={item.Picture} width="100" style={{"padding-top":"15px"}}></img>
-                      <div className="nine columns">
+                    <img className="four columns" alt="" src={item.Picture} style={{"height":"auto"}}></img>
+                      <div className="eight columns">
                         <h3>{item.UniversityName}</h3>
                         <p className="info">
                         {item.specialization}

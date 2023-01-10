@@ -17,9 +17,22 @@ export default class About extends Component {
             <div className="nine columns main-col">
 
                <h2>About Me</h2>
+               {/* <h5 style={{color:"#fff"}}>My Present</h5> */}
                <p>
                {
                  resumeData.aboutme
+               }
+               </p>
+               {/* <h5 style={{color:"#fff"}}>My Past</h5> */}
+               <p>
+               {
+                 resumeData.aboutme2
+               }
+               </p>
+               {/* <h5 style={{color:"#fff"}}>My Future</h5> */}
+               <p>
+               {
+                 resumeData.aboutme3
                }
                </p>
 

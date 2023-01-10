@@ -283,6 +283,7 @@ ul#nav li.current a { color: #F06000; }
 #academic .date {
    font: 15px/24px 'opensans-regular', sans-serif;
    margin-top: 6px;
+   height: ;
 }
 
 /* ------------------------------------------------------------------ */
@@ -409,206 +410,32 @@ ul#nav li.current a { color: #F06000; }
    list-style: none;
    columns:2;
 }
-.bars li {
+/* .bars li {
    position: relative;
   	margin-bottom: 60px;
   	background: #ffffff;
   	height: 42px;
   	border-radius: 4px;
-}
-.bars li em {
+} */
+#skills h5 {
 	font: 15px 'opensans-bold', sans-serif;
    color: #ffffff;
 	text-transform: uppercase;
    letter-spacing: 2px;
 	font-weight: normal;
    position: relative;
+   text-align: center;
 	top: -36px;
 }
-.bar-expand {
-   position: absolute;
-   left: 0;
-   top: 0;
-   bottom: 0;
-   margin: 0;
-   padding-right: 25px;
-  	background: #11ABB0;
-   display: inline-block;
-  	height: 42px;
-   line-height: 42px;
-   border-radius: 3px 0 0 3px;
-}
-.python {
-   width: 85%;
-   -moz-animation: python 2s ease;
-   -webkit-animation: python 2s ease;
-}
-.javascript {
-  	width: 65%;
-  	-moz-animation: javascript 2s ease;
-  	-webkit-animation: javascript 2s ease;
-}
-.postgres {
-  	width: 60%;
-  	-moz-animation: postgres 2s ease;
-  	-webkit-animation: postgres 2s ease;
-}
-.sql {
-   width: 40%;
-   -moz-animation: sql 2s ease;
-   -webkit-animation: sql 2s ease;
-}
-.java {
-   width: 20%;
-   -moz-animation: java 2s ease;
-   -webkit-animation: java 2s ease;
-}
-.c {
-   width: 20%;
-   -moz-animation: c 2s ease;
-   -webkit-animation: c 2s ease;
-}
-.matlab {
-   width: 30%;
-   -moz-animation: matlab 2s ease;
-   -webkit-animation: matlab 2s ease;
-}
-.leadership {
-   width: 75%;
-   -moz-animation: leadership 2s ease;
-   -webkit-animation: leadership 2s ease;
-}
-.problem {
-   width: 70%;
-   -moz-animation: problem 2s ease;
-   -webkit-animation: problem 2s ease;
-}
-.communication {
-   width: 75%;
-   -moz-animation: communication 2s ease;
-   -webkit-animation: communication 2s ease;
-}
-.time {
-   width: 80%;
-   -moz-animation: time 2s ease;
-   -webkit-animation: time 2s ease;
-}
-.analytical {
-   width: 65%;
-   -moz-animation: analytical 2s ease;
-   -webkit-animation: analytical 2s ease;
-}
-.organisation {
-   width: 70%;
-   -moz-animation: organisation 2s ease;
-   -webkit-animation: organisation 2s ease;
-}
 
-@-moz-keyframes python {
-  0%   { width: 0px;  }
-  100% { width: 85%;  }
+#skills p {
+	font: 15px 'opensans-regular', sans-serif;
+   color: #ffffff;
+	font-weight: normal;
+   position: relative;
+   text-align: center;
+	top: -36px;
 }
-@-moz-keyframes javascript {
-  0%   { width: 0px;  }
-  100% { width: 65%;  }
-}
-@-moz-keyframes postgres {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
-}
-@-moz-keyframes sql {
-  0%   { width: 0px;  }
-  100% { width: 40%;  }
-}
-@-moz-keyframes java {
-  0%   { width: 0px;  }
-  100% { width: 20%;  }
-}
-@-moz-keyframes c {
-  0%   { width: 0px;  }
-  100% { width: 20%;  }
-}
-@-moz-keyframes matlab {
-   0%   { width: 0px;  }
-   100% { width: 30%;  }
-}
-@-moz-keyframes leadership {
-   0%   { width: 0px;  }
-   100% { width: 75%;  }
-}
-@-moz-keyframes problem {
-   0%   { width: 0px;  }
-   100% { width: 70%;  }
-}
-@-moz-keyframes communication {
-   0%   { width: 0px;  }
-   100% { width: 75%;  }
-}
-@-moz-keyframes time {
-   0%   { width: 0px;  }
-   100% { width: 80%;  }
-}
-@-moz-keyframes analytical {
-   0%   { width: 0px;  }
-   100% { width: 65%;  }
-}
-@-moz-keyframes organisation {
-   0%   { width: 0px;  }
-   100% { width: 70%;  }
-}
-
-@-webkit-keyframes python {
-  0%   { width: 0px;  }
-  100% { width: 85%;  }
-}
-@-webkit-keyframes javascript {
-  0%   { width: 0px;  }
-  100% { width: 65%;  }
-}
-@-webkit-keyframes postgres {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
-}
-@-webkit-keyframes sql {
-  0%   { width: 0px;  }
-  100% { width: 40%;  }
-}
-@-webkit-keyframes java {
-  0%   { width: 0px;  }
-  100% { width: 20%;  }
-}
-@-webkit-keyframes c {
-  0%   { width: 0px;  }
-  100% { width: 20%;  }
-}
-@-webkit-keyframes matlab {
-   0%   { width: 0px;  }
-   100% { width: 30%;  }
-}
-@-webkit-keyframes leadership {
-  0%   { width: 0px;  }
-  100% { width: 75%;  }
-}
-@-webkit-keyframes problem {
-  0%   { width: 0px;  }
-  100% { width: 70%;  }
-}
-@-webkit-keyframes communication {
-  0%   { width: 0px;  }
-  100% { width: 75%;  }
-}
-@-webkit-keyframes time {
-  0%   { width: 0px;  }
-  100% { width: 80%;  }
-}
-@-webkit-keyframes analytical {
-  0%   { width: 0px;  }
-  100% { width: 65%;  }
-}
-@-webkit-keyframes organisation {
-   0%   { width: 0px;  }
-   100% { width: 70%;  }
- }
 
 
 /* ------------------------------------------------------------------ */
